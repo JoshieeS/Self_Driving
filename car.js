@@ -78,5 +78,6 @@ class Car{
         ctx.fill();
 
         ctx.restore();
+
     }
 }
